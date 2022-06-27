@@ -1,1 +1,1 @@
-# study-statistical-rethining-2020
+# study-statistical-rethinking-2020
